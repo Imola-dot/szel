@@ -1,0 +1,2 @@
+# szel
+szelve finom
